@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# te-aihub-intern-assignment-kusuma-m
+
+>>>>>>> 0882f78664aa94a07a9e38f396b2ecc25977b394
 # BCCD Annotation Assignment
 
 ## Project Summary
@@ -73,4 +78,8 @@ For large-scale annotation:
 - Use consensus review for difficult samples
 
 ## Demo Video
+<<<<<<< HEAD
 Google Drive link will be added in video_link.txt
+=======
+Google Drive link will be added in video_link.txt
+>>>>>>> 0882f78664aa94a07a9e38f396b2ecc25977b394
