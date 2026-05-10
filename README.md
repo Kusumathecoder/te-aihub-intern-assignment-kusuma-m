@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
+
 # te-aihub-intern-assignment-kusuma-m
 
->>>>>>> 0882f78664aa94a07a9e38f396b2ecc25977b394
 # BCCD Annotation Assignment
 
 ## Project Summary
